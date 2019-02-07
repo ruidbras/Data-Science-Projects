@@ -1,6 +1,8 @@
 # Data Science Projects
 
-Welcome, you can find the following projects in this repo:
+Welcome to this repo!
+
+Here, you will find the exercises from udemy's course [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/).
 
 ## Logistic Regression on Advertising Dataset
 [Jupyter Notebook](LogisticRegressionAdvertising.ipynb): Short EDA and logistic regression fit of a toy dataset
